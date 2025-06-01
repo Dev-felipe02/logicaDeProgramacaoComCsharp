@@ -10,7 +10,10 @@ namespace AtividadesDeCsharp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Teste para o GitHub!");
+            Console.WriteLine("Digite o valor do custo de fabrica de um carro: ");
+            double fabrica = Convert.ToSingle(Console.ReadLine());
+            double custoFinal = (0.28 * fabrica) + (0.45 * fabrica) + fabrica;
+            Console.WriteLine($"O custo final deste carro ira ficar em R${custoFinal}");
         }
     }
 }
