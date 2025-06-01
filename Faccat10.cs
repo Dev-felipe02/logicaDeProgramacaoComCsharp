@@ -10,7 +10,7 @@ namespace AtividadesDeCsharp
     {
         public static void Main(string[] args)
         {
-
+            Console.WriteLine("oiiiiiii");
         }
     }
 }
