@@ -18,4 +18,7 @@ using AtividadesDeCsharp;
 //ExemploWhile.Main(args);
 //L03A.Main(args);
 //L03B.Main(args);
-L03C.Main(args);
+//L03C.Main(args);
+//L04A.Main(args);
+//L04B.Main(args);
+L04C.Main(args);
