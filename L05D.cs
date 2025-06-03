@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace AtividadesDeCsharp
 {
-    internal class L04C
+    internal class L05D
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Numeros divisiveis por 4 menores que 200");
-            int i = 1;
-
-            do
+            int soma = 0;
+            for (int i = 1; i < 501; i++)
             {
-                if (i % 4 == 0)
+                if (i % 2 == 0)
                 {
-                    Console.WriteLine(i);
+                    soma += i;
                 }
-                i++;
-            } while (i < 201);
+            }
+            Console.WriteLine($"A soma dos  numeros pares entre 1 a 500 é: {soma}");
         }
     }
 }

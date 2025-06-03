@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace AtividadesDeCsharp
 {
-    internal class ExemploWhile
+    internal class L05C
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo laço de repetição While!");
-            int i = 5;
-
-            while (i < 10)
+            int soma = 0;
+            for (int num = 1; num < 101;  num++)
             {
-                Console.WriteLine("Minha vida está muitoo facil!");
-                i++;
+                soma = num + soma;
+                Console.WriteLine($"A soma dos 100 primeiros numeros inteiros é = {soma}");
             }
         }
     }

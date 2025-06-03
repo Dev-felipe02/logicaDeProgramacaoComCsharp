@@ -6,18 +6,16 @@ using System.Threading.Tasks;
 
 namespace AtividadesDeCsharp
 {
-    internal class L03A
+    internal class L05B
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Digite um numero e descubra a tabuada dele: ");
             int num = Convert.ToInt16(Console.ReadLine());
-            int i = 1;
 
-            while (i < 11)
+            for (int multiplicador = 1; multiplicador < 11; multiplicador++)
             {
-                Console.WriteLine($"{num} x {i} = {num * i}");
-                i++;
+                int tabuada = num * multiplicador;
+                Console.WriteLine($"{num} x {multiplicador} = {tabuada}");
             }
         }
     }

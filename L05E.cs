@@ -6,21 +6,17 @@ using System.Threading.Tasks;
 
 namespace AtividadesDeCsharp
 {
-    internal class L04C
+    internal class L05E
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Numeros divisiveis por 4 menores que 200");
-            int i = 1;
-
-            do
+            for (int i = 0; i < 20; i++)
             {
-                if (i % 4 == 0)
+                if (!(i %  2 == 0))
                 {
-                    Console.WriteLine(i);
+                    Console.WriteLine($"Os numeros impares entre 0 e 20 é: {i}");
                 }
-                i++;
-            } while (i < 201);
+            }
         }
     }
 }

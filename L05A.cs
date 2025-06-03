@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace AtividadesDeCsharp
 {
-    internal class ExemploWhile
+    internal class L05A
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo laço de repetição While!");
-            int i = 5;
-
-            while (i < 10)
+            for (int i = 15; i < 201; i++)
             {
-                Console.WriteLine("Minha vida está muitoo facil!");
-                i++;
+                int quadrado = i * i;
+                Console.WriteLine($"{i}² = {quadrado}");
             }
         }
     }
