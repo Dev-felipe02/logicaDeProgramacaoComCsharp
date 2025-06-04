@@ -34,4 +34,5 @@ using AtividadesDeCsharp;
 //L05G.Main(args);
 //ConvertcaoExplicita.Main(args);
 //ConvercaoDeTipo.Main(args);
-ExploFuncaoMath.Main(args);
+//ExploFuncaoMath.Main(args);
+SubStringEIndexOF.Main(args);
