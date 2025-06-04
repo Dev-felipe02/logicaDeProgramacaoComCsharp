@@ -31,4 +31,7 @@ using AtividadesDeCsharp;
 //L05D.Main(args);
 //L05E.Main(args);
 //L05F.Main(args);
-L05G.Main(args);
+//L05G.Main(args);
+//ConvertcaoExplicita.Main(args);
+//ConvercaoDeTipo.Main(args);
+ExploFuncaoMath.Main(args);
