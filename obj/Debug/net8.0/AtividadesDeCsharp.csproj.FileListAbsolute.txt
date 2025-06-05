@@ -28,3 +28,17 @@ C:\Users\Aluno\Source\Repos\logicaDeProgramacaoComCsharp\obj\Debug\net8.0\refint
 C:\Users\Aluno\Source\Repos\logicaDeProgramacaoComCsharp\obj\Debug\net8.0\AtividadesDeCsharp.pdb
 C:\Users\Aluno\Source\Repos\logicaDeProgramacaoComCsharp\obj\Debug\net8.0\AtividadesDeCsharp.genruntimeconfig.cache
 C:\Users\Aluno\Source\Repos\logicaDeProgramacaoComCsharp\obj\Debug\net8.0\ref\AtividadesDeCsharp.dll
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\bin\Debug\net8.0\AtividadesDeCsharp.exe
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\bin\Debug\net8.0\AtividadesDeCsharp.deps.json
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\bin\Debug\net8.0\AtividadesDeCsharp.runtimeconfig.json
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\bin\Debug\net8.0\AtividadesDeCsharp.dll
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\bin\Debug\net8.0\AtividadesDeCsharp.pdb
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.AssemblyInfoInputs.cache
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.AssemblyInfo.cs
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.dll
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\refint\AtividadesDeCsharp.dll
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.pdb
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\AtividadesDeCsharp.genruntimeconfig.cache
+C:\Users\felipe.nfsilva\Downloads\logicaDeProgramacaoComCsharp-master\logicaDeProgramacaoComCsharp-master\obj\Debug\net8.0\ref\AtividadesDeCsharp.dll
