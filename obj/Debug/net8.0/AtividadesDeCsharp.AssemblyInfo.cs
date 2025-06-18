@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadesDeCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d00beed86d1e998a7ef3a409230e361aa5018716")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d23887f2974bdba404da97219b15e72319c224")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadesDeCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadesDeCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
