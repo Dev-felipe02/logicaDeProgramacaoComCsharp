@@ -10,9 +10,9 @@ namespace AtividadesDeCsharp
     {
         public static void Main(string[] args)
         {
-            MetodoGetESet Felipe = new MetodoGetESet();
+            MetodoGetESet Felipee = new MetodoGetESet();
 
-            Console.WriteLine(Felipe.Nome);
+            Console.WriteLine(Felipee.Nome);
         }
     }
 }

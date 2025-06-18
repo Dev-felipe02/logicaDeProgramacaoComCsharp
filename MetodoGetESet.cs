@@ -8,7 +8,7 @@ namespace AtividadesDeCsharp
 {
     internal class MetodoGetESet
     {
-        private string nome = "Felipe";
+        private string nome = "Felipi";
 
         public string Nome 
         { 

@@ -10,9 +10,9 @@ namespace AtividadesDeCsharp
     {
         public string modelo;
 
-        public ParametrosEmMetodoConstrutor(string nomeModelo)
+        public ParametrosEmMetodoConstrutor(string nameModelo)
             {
-                modelo = nomeModelo;
+                modelo = nameModelo;
             }
 
         public static void Main(string[] args)

@@ -12,7 +12,7 @@ namespace AtividadesDeCsharp
 
         public ExemploMetodoConstrutor()
         {
-            Modelo = "Opala";
+            Modelo = "Opalla";
         }
 
         public static void Main(string[] args)
