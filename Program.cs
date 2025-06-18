@@ -67,4 +67,5 @@ using AtividadesDeCsharp;
 //Exercício02Gemini.Main(args);
 //Exercícios03Gemini.Main(args);
 //Exercícios04Gemini.Main(args);
-Exercícios05Gemini.Main(args);
+//Exercícios05Gemini.Main(args);
+ExemploMetodoConstrutor.Main(args);
